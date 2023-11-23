@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section1/CRUD_OperationUsingStatement/CRUD_OperationUsingStatement.iml" filepath="$PROJECT_DIR$/Section1/CRUD_OperationUsingStatement/CRUD_OperationUsingStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/FetchDataUsingDBCStatement/FetchDataUsingDBCStatement.iml" filepath="$PROJECT_DIR$/Section1/FetchDataUsingDBCStatement/FetchDataUsingDBCStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/First-Approach/First-Approach.iml" filepath="$PROJECT_DIR$/Section1/First-Approach/First-Approach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/JDBCPreparedStatement/JDBCPreparedStatement.iml" filepath="$PROJECT_DIR$/Section1/JDBCPreparedStatement/JDBCPreparedStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JDBC_IN_DEPTH.iml" filepath="$PROJECT_DIR$/.idea/JDBC_IN_DEPTH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/JdbcConnectionUsingPropertyResource/JdbcConnectionUsingPropertyResource.iml" filepath="$PROJECT_DIR$/Section1/JdbcConnectionUsingPropertyResource/JdbcConnectionUsingPropertyResource.iml" />
+    </modules>
+  </component>
+</project>
