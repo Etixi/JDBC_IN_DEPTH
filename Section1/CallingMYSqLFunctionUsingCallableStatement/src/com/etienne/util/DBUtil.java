@@ -23,7 +23,7 @@ public class DBUtil {
         try {
 
             properties = new Properties();
-            properties.load(new FileInputStream("JdbcConnectionUsingPropertyResource/src/database.properties"));
+            properties.load(new FileInputStream("Section1/files/database.properties"));
             Class.forName(properties.getProperty(DB_DRIVER_CLASS));
 
 

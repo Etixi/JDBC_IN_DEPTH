@@ -7,10 +7,10 @@ import java.sql.SQLException;
 
 public class DBUtil {
     private static final String DB_DRIVER_CLASS = "com.mysql.cj.jdbc.Driver";
-    private static final String DB_USERNAME = "xxxxxxxxxxxxx";
-    private static final String DB_PASSWORD = "xxxxxxxxxxxxx";
+    private static final String DB_USERNAME = "Etienne";
+    private static final String DB_PASSWORD = "Caroline1995@";
     private static final String DB_URL = "jdbc:mysql://localhost:3306/jdbcdb?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=UTC";
-            // "jdbc:mysql://localhost:3306/jdbcdb?useSSL=false&verifyServerCertificate=false&serverTimezone=UTC";
+
 
     private static Connection connection = null;
 

@@ -59,7 +59,7 @@ public class ClientTest {
         ) {
 
             String SQLINSERT = "insert into employee_table(employee_name, email, salary, date_of_joining, bonus) "
-                    + "values('John', 'john.cs2008@yahoo.com', 65000.00, '2016-05-11', 550.00)";
+                    + "values('elvis', 'elvis.cs2008@yahoo.com', 65000.00, '2016-05-11', 550.00)";
 
             int executeUpdate = st.executeUpdate(SQLINSERT);
 
