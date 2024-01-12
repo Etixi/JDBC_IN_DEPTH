@@ -359,21 +359,21 @@
   + Update database with the binary data
   
 
-      // Prepare Statement
+        // Prepare Statement
 
-      String sql = "update employee set resume=?" + 
+        String sql = "update employee set resume=?" + 
                     " where email='john.doe@foo.com'";
 
-      PreparedStatement myStmt = myConn.prepareStatement(sql);
+        PreparedStatement myStmt = myConn.prepareStatement(sql);
 
-      // Set parameter for resume file_name
-      File theFile = new File("sample_resume.pdf");
-      FileInputStream input = new FileInputStream(theFile);
+        // Set parameter for resume file_name
+        File theFile = new File("sample_resume.pdf");
+        FileInputStream input = new FileInputStream(theFile);
 
-      myStmt.setBinaryStream(1, input);
+        myStmt.setBinaryStream(1, input);
 
-      // Execute statement
-      myStmt.executeUpdate(sql);
+        // Execute statement
+        myStmt.executeUpdate(sql);
 
 
 # **What is a CLOB?**
