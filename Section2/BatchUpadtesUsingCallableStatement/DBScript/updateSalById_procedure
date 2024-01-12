@@ -1,0 +1,11 @@
+USE `jdbcdb`;
+DROP procedure IF EXISTS `updateSaleBy`;
+
+DELIMITER $$
+USE `jdbcdb`$$
+CREATE PROCEDURE `updateSaleBy` (IN sal DOUBLE, IN empId INT)
+BEGIN
+	UPDATE employee_table set salary=sal WHERE employee_id=empId;
+END$$
+
+DELIMITER ;

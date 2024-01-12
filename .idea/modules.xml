@@ -2,14 +2,50 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Section1/ApacheDBCPDataSourceConnectionPoolDemo/ApacheDBCPDataSourceConnectionPoolDemo.iml" filepath="$PROJECT_DIR$/Section1/ApacheDBCPDataSourceConnectionPoolDemo/ApacheDBCPDataSourceConnectionPoolDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/BatchUpadtesUsingCallableStatement/BatchUpadtesUsingCallableStatement.iml" filepath="$PROJECT_DIR$/Section1/BatchUpadtesUsingCallableStatement/BatchUpadtesUsingCallableStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/BatchUpadtesUsingPreparedStatement/BatchUpadtesUsingPreparedStatement.iml" filepath="$PROJECT_DIR$/Section1/BatchUpadtesUsingPreparedStatement/BatchUpadtesUsingPreparedStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/BoneCPDataSourceConnectionPoolDemo/BoneCPDataSourceConnectionPoolDemo.iml" filepath="$PROJECT_DIR$/Section1/BoneCPDataSourceConnectionPoolDemo/BoneCPDataSourceConnectionPoolDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/CP30DataSourceConnectionPoolDemo/CP30DataSourceConnectionPoolDemo.iml" filepath="$PROJECT_DIR$/Section1/CP30DataSourceConnectionPoolDemo/CP30DataSourceConnectionPoolDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section1/CRUD_OperationUsingStatement/CRUD_OperationUsingStatement.iml" filepath="$PROJECT_DIR$/Section1/CRUD_OperationUsingStatement/CRUD_OperationUsingStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section1/CallingMYSqLFunctionUsingCallableStatement/CallingMYSqLFunctionUsingCallableStatement.iml" filepath="$PROJECT_DIR$/Section1/CallingMYSqLFunctionUsingCallableStatement/CallingMYSqLFunctionUsingCallableStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section1/CallingStoredprocedureUsingCallableStatement/CallingStoredprocedureUsingCallableStatement.iml" filepath="$PROJECT_DIR$/Section1/CallingStoredprocedureUsingCallableStatement/CallingStoredprocedureUsingCallableStatement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/DatabaseMetaDataDemo/DatabaseMetaDataDemo.iml" filepath="$PROJECT_DIR$/Section1/DatabaseMetaDataDemo/DatabaseMetaDataDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section1/FetchDataUsingJDBCStatement/FetchDataUsingJDBCStatement.iml" filepath="$PROJECT_DIR$/Section1/FetchDataUsingJDBCStatement/FetchDataUsingJDBCStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section1/First-Approach/First-Approach.iml" filepath="$PROJECT_DIR$/Section1/First-Approach/First-Approach.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/GetPrimaryKeyReturnDemo/GetPrimaryKeyReturnDemo.iml" filepath="$PROJECT_DIR$/Section1/GetPrimaryKeyReturnDemo/GetPrimaryKeyReturnDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/HikariDataSourceConnectionPoolDemo/HikariDataSourceConnectionPoolDemo.iml" filepath="$PROJECT_DIR$/Section1/HikariDataSourceConnectionPoolDemo/HikariDataSourceConnectionPoolDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section1/JDBCPreparedStatement/JDBCPreparedStatement.iml" filepath="$PROJECT_DIR$/Section1/JDBCPreparedStatement/JDBCPreparedStatement.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/JDBC_IN_DEPTH.iml" filepath="$PROJECT_DIR$/.idea/JDBC_IN_DEPTH.iml" />
       <module fileurl="file://$PROJECT_DIR$/Section1/JdbcConnectionUsingPropertyResource/JdbcConnectionUsingPropertyResource.iml" filepath="$PROJECT_DIR$/Section1/JdbcConnectionUsingPropertyResource/JdbcConnectionUsingPropertyResource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/JdbcRowSetInsertAndSelectDemo/JdbcRowSetInsertAndSelectDemo.iml" filepath="$PROJECT_DIR$/Section1/JdbcRowSetInsertAndSelectDemo/JdbcRowSetInsertAndSelectDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/JdbcRowSetUpdateAndDeleteRecordDemo/JdbcRowSetUpdateAndDeleteRecordDemo.iml" filepath="$PROJECT_DIR$/Section1/JdbcRowSetUpdateAndDeleteRecordDemo/JdbcRowSetUpdateAndDeleteRecordDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/MysqlDataSourceDemo/MysqlDataSourceDemo.iml" filepath="$PROJECT_DIR$/Section1/MysqlDataSourceDemo/MysqlDataSourceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/ResultSetMetaDataDemo/ResultSetMetaDataDemo.iml" filepath="$PROJECT_DIR$/Section1/ResultSetMetaDataDemo/ResultSetMetaDataDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/ResultSetNavigationMethods/ResultSetNavigationMethods.iml" filepath="$PROJECT_DIR$/Section1/ResultSetNavigationMethods/ResultSetNavigationMethods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/RowSetListenerDemo/RowSetListenerDemo.iml" filepath="$PROJECT_DIR$/Section1/RowSetListenerDemo/RowSetListenerDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/SaveAndRetrieveBinaryFilesDemo/SaveAndRetrieveBinaryFilesDemo.iml" filepath="$PROJECT_DIR$/Section1/SaveAndRetrieveBinaryFilesDemo/SaveAndRetrieveBinaryFilesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/SaveAndRetriveBinaryFilesDemo/SaveAndRetriveBinaryFilesDemo.iml" filepath="$PROJECT_DIR$/Section1/SaveAndRetriveBinaryFilesDemo/SaveAndRetriveBinaryFilesDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/StoreTextFilesInDatabaseDemo/StoreTextFilesInDatabaseDemo.iml" filepath="$PROJECT_DIR$/Section1/StoreTextFilesInDatabaseDemo/StoreTextFilesInDatabaseDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/UpdateResultSetSetDemo1/UpdateResultSetSetDemo1.iml" filepath="$PROJECT_DIR$/Section1/UpdateResultSetSetDemo1/UpdateResultSetSetDemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/UpdateResultSetSetDemo2/UpdateResultSetSetDemo2.iml" filepath="$PROJECT_DIR$/Section1/UpdateResultSetSetDemo2/UpdateResultSetSetDemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jbdc-properties-file/jbdc-properties-file.iml" filepath="$PROJECT_DIR$/Section2/jbdc-properties-file/jbdc-properties-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section1/jbdcTransactionManagement/jbdcTransactionManagement.iml" filepath="$PROJECT_DIR$/Section1/jbdcTransactionManagement/jbdcTransactionManagement.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-blobs/jdbc-blobs.iml" filepath="$PROJECT_DIR$/Section2/jdbc-blobs/jdbc-blobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-clob/jdbc-clob.iml" filepath="$PROJECT_DIR$/Section2/jdbc-clob/jdbc-clob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-database-metadata/jdbc-database-metadata.iml" filepath="$PROJECT_DIR$/Section2/jdbc-database-metadata/jdbc-database-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-delete/jdbc-delete.iml" filepath="$PROJECT_DIR$/Section2/jdbc-delete/jdbc-delete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-insert/jdbc-insert.iml" filepath="$PROJECT_DIR$/Section2/jdbc-insert/jdbc-insert.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-query/jdbc-query.iml" filepath="$PROJECT_DIR$/Section2/jdbc-query/jdbc-query.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-resultset-metadata/jdbc-resultset-metadata.iml" filepath="$PROJECT_DIR$/Section2/jdbc-resultset-metadata/jdbc-resultset-metadata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-stored-procedures-part1/jdbc-stored-procedures-part1.iml" filepath="$PROJECT_DIR$/Section2/jdbc-stored-procedures-part1/jdbc-stored-procedures-part1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-stored-procedures-part2/jdbc-stored-procedures-part2.iml" filepath="$PROJECT_DIR$/Section2/jdbc-stored-procedures-part2/jdbc-stored-procedures-part2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-stored-procedures-part3/jdbc-stored-procedures-part3.iml" filepath="$PROJECT_DIR$/Section2/jdbc-stored-procedures-part3/jdbc-stored-procedures-part3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-stored-procedures-part4/jdbc-stored-procedures-part4.iml" filepath="$PROJECT_DIR$/Section2/jdbc-stored-procedures-part4/jdbc-stored-procedures-part4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-test/jdbc-test.iml" filepath="$PROJECT_DIR$/Section2/jdbc-test/jdbc-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-transactions/jdbc-transactions.iml" filepath="$PROJECT_DIR$/Section2/jdbc-transactions/jdbc-transactions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/jdbc-update/jdbc-update.iml" filepath="$PROJECT_DIR$/Section2/jdbc-update/jdbc-update.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section2/prepared-statements/prepared-statements.iml" filepath="$PROJECT_DIR$/Section2/prepared-statements/prepared-statements.iml" />
     </modules>
   </component>
 </project>
